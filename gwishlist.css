@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color:rgba(0, 0, 0, 0.733);
+    color:antiquewhite;
+    padding: 2rem;
+}
+
+.buka{
+    width: 900px;
+    margin:10px auto;
+    background-color:beige;
+    border-radius: 15px;
+    display:grid;
+}
+
+.kota{
+    width: 900px;
+    margin:15px auto;
+    background-color:rgb(157, 188, 188);
+    border-radius: 15px;
+    display:block;
+}
+
+.awal{
+    width: 900px;
+    margin:15px;
+    background-color:beige;
+    border-radius:10px;
+    display:block;
+}
+
+.pntt{
+    width: 900px;
+    margin: 15px;
+}
+
+section h1{
+    width: 15cm;
+    margin: 15px;
+}
+
+
